@@ -1,1 +1,1 @@
-collection of one-off scripts that are ideas I thought of or saw somewhere and wanted to explore. may or may not be more at the moment. informational purposes only
+collection of one-off scripts that are ideas I thought of or saw somewhere and wanted to explore. individual ideas may or may not be used in a more formal way at the moment. If you spot an error please reach out. informational purposes only
